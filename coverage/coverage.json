@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "75.06%",
+    "missed": 1662,
+    "total": 6665
+  },
+  "generated_at": "2026-10-05T12:38:06Z",
+  "lines": {
+    "coverage": "79.33%",
+    "missed": 11775,
+    "total": 56972
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "78.30%",
+    "missed": 17613,
+    "total": 81160
+  },
+  "run_url": "https://github.com/Adam-s-tech/AgentENV/actions/runs/37293096808"
+}
